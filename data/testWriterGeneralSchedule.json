@@ -1,0 +1,21 @@
+{
+    "protein": {
+        "flavor": "chocolate",
+        "remaining amount": 900
+    },
+    "name": "Today's schedule",
+    "menus": [
+        {
+            "rest": 60,
+            "set": 3,
+            "name": "bench press",
+            "rep": 10
+        },
+        {
+            "rest": 90,
+            "set": 5,
+            "name": "squat",
+            "rep": 8
+        }
+    ]
+}

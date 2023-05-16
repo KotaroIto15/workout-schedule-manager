@@ -1,0 +1,27 @@
+{
+    "protein": {
+        "flavor": "vanilla",
+        "remaining amount": 500
+    },
+    "name": "Today's schedule",
+    "menus": [
+        {
+            "rest": 60,
+            "set": 3,
+            "name": "pushup",
+            "rep": 10
+        },
+        {
+            "rest": 45,
+            "set": 5,
+            "name": "ab",
+            "rep": 7
+        },
+        {
+            "rest": 20,
+            "set": 4,
+            "name": "asdf",
+            "rep": 5
+        }
+    ]
+}
