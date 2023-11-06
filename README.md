@@ -30,3 +30,6 @@ Therefore, I thought this app might help me work out constantly.*
 - *As a user, I want to be able to search a workout by name.*
 - *As a user, I want to be able to add a workout menu to the daily workout schedule.*
 - *As a user, I want to be able to search a workout by name.*
+
+### UML Design Diagram
+![Alt UML_Diagram](UML_Design_Diagram.png)
